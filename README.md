@@ -26,10 +26,10 @@ Applications of the Chat Program This chat application is a simplified version o
 
 OUTPUT:
 
-<img width="1374" height="306" alt="Image" src="https://github.com/user-attachments/assets/66d61924-57d0-445b-abe8-e1d08b06e28d" />
-
-<img width="1377" height="407" alt="Image" src="https://github.com/user-attachments/assets/0a104466-c77d-4b62-97c1-898313f07a8f" />
+<img width="1369" height="293" alt="Image" src="https://github.com/user-attachments/assets/334807cd-2912-4790-ab1b-c289810de603" />
 
 <img width="1374" height="390" alt="Image" src="https://github.com/user-attachments/assets/a909c054-9744-4e15-9823-ed63bbf985d2" />
 
-<img width="1369" height="293" alt="Image" src="https://github.com/user-attachments/assets/334807cd-2912-4790-ab1b-c289810de603" />
+<img width="1377" height="407" alt="Image" src="https://github.com/user-attachments/assets/0a104466-c77d-4b62-97c1-898313f07a8f" />
+
+<img width="1374" height="306" alt="Image" src="https://github.com/user-attachments/assets/66d61924-57d0-445b-abe8-e1d08b06e28d" />
